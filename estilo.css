@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    /* background-color: #eae3f1; */
+    background-image: url(https://img.freepik.com/vetores-premium/abstrato-colorido-com-elementos-de-memphis_23-2148468895.jpg?w=900);
+    background-repeat: repeat;
+    background-size: cover;
+    /* background-position: left; */
+    background-attachment: fixed;
+
+}
+
+main{
+    width:60%;    
+    margin: auto;
+    padding-top: 50px;
+    padding-right:50px;
+    padding: left 50px;;
+    padding-bottom: 100px;
+     border:  #690a81 10px solid;   /* solid dotted dashed  */
+   
+    background-color: rgba(218, 16, 160, 0.751);
+    padding: 70px;
+    border-radius: 30px;
+}
+
+div{
+    margin-top: 5%;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(85, 25, 72);
+   }
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: lighter;
+    font-style: italic;
+    /* font-style: oblique; */
+    /* font-stretch:ultra-expanded; */
+    line-height: 25px;
+    /* letter-spacing: normal; */
+    /* word-spacing: 2px; */
+    text-align: justify;
+    text-decoration: none;
+    /* text-transform: capitalize; */
+    text-indent: 50px  ;
+    /* text-shadow:2px  3px  1px rgb(44, 36, 36); */
+
+
+}
+
+
